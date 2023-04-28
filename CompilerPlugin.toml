@@ -1,0 +1,8 @@
+[plugin]
+class = "io.gayal.combined.CombinedCompilerPlugin"
+
+[[dependency]]
+path = "/Users/gayaldassanayake/Documents/practice/sprint72/compiler-plugin-with-analyzer-generator-modifier/build/libs/compiler-plugin-with-analyzer-generator-modifier-1.0-SNAPSHOT.jar"
+
+[[dependency]]
+path = "/Users/gayaldassanayake/Documents/practice/sprint71/diagnostic-utils-lib-1.0.0.jar"
